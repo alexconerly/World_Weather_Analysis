@@ -30,4 +30,3 @@ As a result of the analysis, the use of Open Weather Maps and Google Maps APIs c
 ## Summary
 
 From this analysis, it is evident that with the use of Python programming language and general API functionality, the flexibility of such tools can serve quite well for, not only weather data, but also the retrieval of essentially any criteria desired, so long as it is available.  In essence, we are only limited by our imagination and PlanMyTrip, in particular, now appears to be far more equipped in serving the unique travel destination preferences of its travel-hungry customers.
-
